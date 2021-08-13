@@ -1,5 +1,5 @@
 {
-  "name": "@botpress/cdk-postgresql",
+  "name": "@bdswiss/cdk-postgresql",
   "version": "1.118.0",
   "description": "Postgresql constructs for AWS CDK",
   "main": "lib/index.js",
